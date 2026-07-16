@@ -7,7 +7,7 @@ This repository contains all of my professional certifications.
 | Certification | Platform | Certificate |
 |---------------|----------|-------------|
 | Introduction to AWS Solutions | AWS | [View](certificates/AWScertificate.pdf) |
-| Introduction to Generative AI | Google Cloud | [View](certificates/GENAIcertificate.pdf) |
+| Introduction to Generative AI | Google Cloud | [View](certificates/GEN_AI.pdf) |
 | Java Programming | Coursera | [View](Coursera/java-programming.pdf) |
 | SQL for Data Science | Coursera | [View](Coursera/sql.pdf) |
 | Data Structures | Coursera | [View](Coursera/data-structures.pdf) |
