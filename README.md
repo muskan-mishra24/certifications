@@ -6,7 +6,7 @@ This repository contains all of my professional certifications.
 
 | Certification | Platform | Certificate |
 |---------------|----------|-------------|
-| AWS Cloud Practitioner | AWS | [View](AWS/aws-cloud-practitioner.pdf) |
+| Introduction to AWS Solutions | AWS | [View](certificates/AWScertificate.pdf) |
 | Java Programming | Coursera | [View](Coursera/java-programming.pdf) |
 | SQL for Data Science | Coursera | [View](Coursera/sql.pdf) |
 | Data Structures | Coursera | [View](Coursera/data-structures.pdf) |
