@@ -8,7 +8,7 @@ This repository contains all of my professional certifications.
 |---------------|----------|-------------|
 | Introduction to AWS Solutions | AWS | [View](certificates/AWScertificate.pdf) |
 | Introduction to Generative AI | Google Cloud | [View](certificates/GEN_AI.pdf) |
-| Java Programming | Coursera | [View](Coursera/java-programming.pdf) |
+| Python Programming (Part-1) | Infosys Springboard| [View](certificates/certificate(python1).pdf) |
 | SQL for Data Science | Coursera | [View](Coursera/sql.pdf) |
 | Data Structures | Coursera | [View](Coursera/data-structures.pdf) |
 | MERN Stack Development | Udemy | [View](Udemy/mern-stack.pdf) |
